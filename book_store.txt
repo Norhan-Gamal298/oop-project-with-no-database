@@ -1,0 +1,19 @@
+Title: To Kill a Mockingbird, Author: Harper Lee, Genre: Fiction, Publication Year: 1960
+Title: 1984, Author: George Orwell, Genre: Dystopian, Publication Year: 1949
+Title: Pride and Prejudice, Author: Jane Austen, Genre: Romance, Publication Year: 1813
+Title: The Great Gatsby, Author: F. Scott Fitzgerald, Genre: Classic, Publication Year: 1925
+Title: The Hobbit, Author: J.R.R. Tolkien, Genre: Fantasy, Publication Year: 1937
+Title: Harry Potter and the Sorcerer's Stone, Author: J.K. Rowling, Genre: Fantasy, Publication Year: 1997
+Title: The Catcher in the Rye, Author: J.D. Salinger, Genre: Fiction, Publication Year: 1951
+Title: The Da Vinci Code, Author: Dan Brown, Genre: Thriller, Publication Year: 2003
+Title: The Alchemist, Author: Paulo Coelho, Genre: Adventure, Publication Year: 1988
+Title: War and Peace, Author: Leo Tolstoy, Genre: Historical, Publication Year: 1869
+Title: The Lord of the Rings, Author: J.R.R. Tolkien, Genre: Fantasy, Publication Year: 1954
+Title: The Shining, Author: Stephen King, Genre: Horror, Publication Year: 1977
+Title: The Kite Runner, Author: Khaled Hosseini, Genre: Drama, Publication Year: 2003
+Title: Fahrenheit 451, Author: Ray Bradbury, Genre: Dystopian, Publication Year: 1953
+Title: The Fault in Our Stars, Author: John Green, Genre: Romance, Publication Year: 2012
+Title: Gone Girl, Author: Gillian Flynn, Genre: Thriller, Publication Year: 2012
+Title: The Book Thief, Author: Markus Zusak, Genre: Historical, Publication Year: 2005
+Title: Life of Pi, Author: Yann Martel, Genre: Adventure, Publication Year: 2001
+Title: Moby-Dick Author: Herman Melville, Genre: Adventure, Publication Year: 1851
